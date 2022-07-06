@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <!doctype html>
 <html>
     <head>
@@ -7,6 +7,7 @@
     </head>
     <body>
         <head>
+            <img src="C:\Users\Ajoncosta\Documents\Curso de programação Dio (Santader)\html5\curso html\eu.jpg" alt="ilutração da minha imagem">
             <h1>Ajoncosta</h1>
         </head>
         <section>
@@ -15,8 +16,9 @@
             </head>
         </section>
         <article>
-            <head>
+            <head>s
                 <h3>post #1</h3>
+                <img scr="C:\Users\Ajoncosta\Documents\Curso de programação Dio (Santader)\html5\curso html\imagem2.jpeg" alt="editor de texto com imagem">
             </head>
             <p>
                 Texto é uma <a href="https://www.google.com/"target="_blank">google</a> linguística 
@@ -36,28 +38,3 @@
         
     </body>
 </html>
-=======
-<!doctype html5>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>Ajoncosta</title>
-    </head>
-    <body>
-        <head>
-            <h1>ajoncosta</h1>
-        </head>
-        <section>
-            <header>
-                <h2>posts</h2>
-            </header>
-            <article>
-                <header>
-                    <h3>post #1</h3>
-                </header>
-            </article>
-        </section>
-        <footer></footer>
-    </body>
-</html>
->>>>>>> 9277592b21fb4a5903c4e65591dc5fa5000d064a
