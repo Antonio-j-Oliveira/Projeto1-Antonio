@@ -1,25 +1,25 @@
 
 <!doctype html>
 <html>
-    <head>
+    <header>
         <meta charset="utf-8">
         <title>Ajoncosta</title>
-    </head>
+    </header>
     <body>
-        <head>
+        <header>
             <img src="C:\Users\Ajoncosta\Documents\Curso de programação Dio (Santader)\html5\curso html\eu.jpg" alt="ilutração da minha imagem">
             <h1>Ajoncosta</h1>
-        </head>
+        </header>
         <section>
-            <head>
+            <header>
                 <h2>posts</h2>
-            </head>
+            </header>
         </section>
         <article>
-            <head>s
+            <header>
                 <h3>post #1</h3>
-                <img scr="C:\Users\Ajoncosta\Documents\Curso de programação Dio (Santader)\html5\curso html\imagem2.jpeg" alt="editor de texto com imagem">
-            </head>
+                <img src="C:\Users\Ajoncosta\Documents\Curso de programação Dio (Santader)\html5\curso html\imagem.png" alt="editor de texto com imagem" width="660" height="140">
+            </header>
             <p>
                 Texto é uma <a href="https://www.google.com/"target="_blank">google</a> linguística 
                 <a href="antonio:ajoncosta2@gmail.com"target="blank">contato</a> de sentidos que resulta 
@@ -33,7 +33,20 @@
                 inferidas da situação de produção desse texto – propósitos comunicativos, interlocutores, 
                 gênero discursivo, esfera social de circulação, suporte, etc.
             </p>
-            <footer></footer>
+            <footer>
+                <<li>
+                   <a href="antonio:ajoncosta2@gmail.com"target="_blank">E-mail</a>
+                </li>
+                <li>
+                   <a href="https://www.facebook.com/ajoncosta/about" target="_blank">Facebook</a>
+                </li>
+                <li>
+                    <a href=" https://www.linkedin.com/in/antonio-jos%C3%A9-de-oliveira-neto-9104524a" target="_blank" >Linkedin</a>
+                </li>
+                <li>
+                    <a href="https://github.com/Antonio-j-Oliveira/Projeto1-Antonio.git" target="_blank">Github</a>                 
+                </li>
+            </footer>
         </article>
         
     </body>
