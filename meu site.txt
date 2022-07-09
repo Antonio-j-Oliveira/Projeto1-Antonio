@@ -4,25 +4,26 @@
     <header>
         <meta charset="utf-8">
         <title>Ajoncosta</title>
+        <link rel="stylesheet" href="style.css">
     </header>
-    <body>
+    <body class="bb">
         <header>
-            <img src="C:\Users\Ajoncosta\Documents\Curso de programação Dio (Santader)\html5\curso html\eu.jpg" alt="ilutração da minha imagem">
-            <h1>Ajoncosta</h1>
+            <img src="eu.jpg" alt="ilutração da minha imagem" class="photo">
+            <h1 id="title">Ajoncosta</h1>
         </header>
         <section>
             <header>
-                <h2>posts</h2>
+                <h2 class="subtitle">posts</h2>
             </header>
         </section>
-        <article>
+        <article class="post">
             <header>
-                <h3>post #1</h3>
-                <img src="C:\Users\Ajoncosta\Documents\Curso de programação Dio (Santader)\html5\curso html\imagem.png" alt="editor de texto com imagem" width="660" height="140">
+                <h3 class="post_title">post #1</h3>
+                <img src="imagem.png" alt="editor de texto com imagem" width="660" height="140" class="post-img">
             </header>
-            <p>
+            <p class="post-content">
                 Texto é uma <a href="https://www.google.com/"target="_blank">google</a> linguística 
-                <a href="antonio:ajoncosta2@gmail.com"target="blank">contato</a> de sentidos que resulta 
+                <a href="ajoncosta2@gmail.com"target="blank">contato</a> de sentidos que resulta 
                 da interação entre quem o produz e o leitor/ouvinte. Um texto pode ter extensões muito variadas, 
                 constituindo-se de uma palavra até de milhares delas e traz marcas 
                 que indicam seu início e fim. Embora seja composto de palavras, frases, períodos, ou mesmo unidades maiores, 
@@ -34,20 +35,23 @@
                 gênero discursivo, esfera social de circulação, suporte, etc.
             </p>
             <footer>
-                <<li>
-                   <a href="antonio:ajoncosta2@gmail.com"target="_blank">E-mail</a>
-                </li>
-                <li>
-                   <a href="https://www.facebook.com/ajoncosta/about" target="_blank">Facebook</a>
-                </li>
-                <li>
-                    <a href=" https://www.linkedin.com/in/antonio-jos%C3%A9-de-oliveira-neto-9104524a" target="_blank" >Linkedin</a>
-                </li>
-                <li>
+                <ol>
+                  <li>
+                     <a href="ajoncosta2@gmail.com" target="_blank" class="email">E-mail</a>
+                  </li>
+                  <li>
+                     <a href="https://www.facebook.com/ajoncosta/about" target="_blank">Facebook</a>
+                  </li>
+                  <li>
+                      <a href=" https://www.linkedin.com/in/antonio-jos%C3%A9-de-oliveira-neto-9104524a" target="_blank" >Linkedin</a>
+                  </li>
+                  <li>
                     <a href="https://github.com/Antonio-j-Oliveira/Projeto1-Antonio.git" target="_blank">Github</a>                 
-                </li>
+                  </li>
+                </ol>
             </footer>
         </article>
         
     </body>
 </html>
+
