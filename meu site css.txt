@@ -1,0 +1,39 @@
+.bb {
+    background: #ccc;
+}
+.photo {
+    border-radius: 30px;
+    border: 1px solid black;
+}
+#title, .subtitle, .post_title {
+    color: rgb(53, 53, 59);
+}
+
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom:  15px;
+}
+
+.email {
+    color: aqua;
+    background-color: brown;
+}
+.email:hover {
+    background-color: dimgrey;
+}
+.post {
+    background: #fff;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+    border-radius: 10px;
+}
+.post-content {
+    margin: 0;
+    margin-bottom: 15px;
+}
+.post-img {
+    margin-bottom: 15px;
+}
